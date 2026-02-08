@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/dstructs-doubly-linked-list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Doubly linked list.",
   "license": "Apache-2.0",
   "author": {
@@ -43,10 +43,10 @@
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.4",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.3",
     "@stdlib/utils-define-property": "^0.2.5",
-    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/assert-has-own-property": "^0.2.2",
+    "@stdlib/assert-has-own-property": "^0.2.3",
     "@stdlib/assert-instance-of": "^0.3.0",
     "@stdlib/random-base-randu": "^0.2.2",
     "proxyquire": "^2.0.0",
